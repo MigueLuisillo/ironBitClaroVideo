@@ -1,0 +1,16 @@
+.Title {
+  position: absolute;
+  font-size: 16px;
+  margin: 1em 1em;
+  padding: 0;
+  bottom: 0;
+  width: 270px;
+  text-overflow: ellipsis;
+  overflow-x: hidden;
+  white-space: nowrap;
+  text-align: left;
+}
+
+.Movie {
+  position: relative;
+};

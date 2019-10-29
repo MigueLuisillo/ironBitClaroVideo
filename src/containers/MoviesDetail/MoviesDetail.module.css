@@ -1,0 +1,24 @@
+.goBack {
+  display: flex;
+}
+
+.titleWrapper {
+  display: flex;
+  text-align: start;
+}
+
+.detailWrapper {
+  display: flex;
+}
+
+.movieTitle {
+  flex: 1;
+}
+
+.movieImage {
+  flex-grow: 3;
+}
+
+.movieDescription {
+  flex-grow: 2;
+}
